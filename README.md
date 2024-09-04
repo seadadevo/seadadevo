@@ -8,8 +8,6 @@
 
 # About Me
 
-## Ahmed Magd
-
 **Front-End Developer | Building User-Friendly Interfaces | Passionate about Learning**
 
 I am a highly motivated and results-oriented Front-End Developer from Egypt with a passion for building user-friendly and engaging web interfaces. I am a quick learner and I am always eager to tackle new challenges. I am a team player and I enjoy collaborating with others to achieve common goals.
