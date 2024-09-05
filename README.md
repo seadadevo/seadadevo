@@ -16,6 +16,8 @@ I am a highly motivated and results-oriented Front-End Developer from Egypt with
 
 * JavaScript
 * TypeScript
+* tailwind css
+* bootstrap 5
 * React
 * Next.js
 * Redux
