@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋, I'm Ahmed Magdy</h1>
-<h3 align="center">Front-End Developer from Egypt</h3>
+<h1 align="left">Hey 👋, I'm Ahmed Magdy</h1>
+<h3 align="left">Front-End Developer from Egypt</h3>
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ahmedmagdy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
