@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-**Front-End Developer | Building User-Friendly Interfaces | Passionate about Learning**
+**Software Engineer | Full-Stack Web Development | Passionate about Scalable and Modern Apps**
 
-I am a highly motivated and results-oriented developer with a passion for building engaging and user-friendly web interfaces.  
-I am a quick learner, always eager to tackle new challenges, and a team player who enjoys collaborating to achieve goals.
+I am a motivated and results-oriented developer with experience in **React, Next.js, Angular, and Node.js**.  
+I enjoy building clean, efficient, and user-friendly web applications, quickly learning new technologies, and collaborating in team environments to deliver impactful projects.
 
 ---
 
@@ -22,9 +22,10 @@ I am a quick learner, always eager to tackle new challenges, and a team player w
 
 - JavaScript  
 - TypeScript  
+- Angular  
 - React  
 - Next.js  
-- Redux  
+- Redux / NgRx  
 - Node.js  
 - Tailwind CSS  
 - Bootstrap 5  
@@ -33,8 +34,8 @@ I am a quick learner, always eager to tackle new challenges, and a team player w
 
 ## 🎯 Goals
 
-- Become an expert in front-end development  
-- Build innovative and impactful web applications  
+- Become an expert in full-stack development  
+- Build scalable and user-friendly web applications  
 - Contribute to open-source projects  
 
 ---
@@ -45,6 +46,8 @@ I am a quick learner, always eager to tackle new challenges, and a team player w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
@@ -60,7 +63,6 @@ I am a quick learner, always eager to tackle new challenges, and a team player w
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind" />
 </div>
-
 ---
 
 ## 💡 Quote to Live By
