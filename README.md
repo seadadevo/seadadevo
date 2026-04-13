@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, I'm Ahmed Magdy</h1>
-<h3 align="left">Full Stack Developer from Egypt</h3>
+<h3 align="left">ITI-Certified SAP Software Engineer from Egypt</h3>
 
 ---
 
@@ -11,58 +11,44 @@
 
 ## 🚀 About Me
 
-**Software Engineer | Full-Stack Web Development | Passionate about Scalable and Modern Apps**
+**SAP Developer | ABAP & Fiori UX | Passionate about Enterprise Architecture**
 
-I am a motivated and results-oriented developer with experience in **React, Next.js, Angular, and Node.js**.  
-I enjoy building clean, efficient, and user-friendly web applications, quickly learning new technologies, and collaborating in team environments to deliver impactful projects.
+I am a highly motivated and results-oriented software engineer with a comprehensive focus on the SAP ecosystem. With a strong technical foundation backed by my ITI certification, I specialize in architecting scalable backend logic and creating modern user experiences for complex business operations. 
 
----
-
-## 📚 Currently Learning
-
-- JavaScript  
-- TypeScript  
-- Angular  
-- React  
-- Next.js  
-- Redux / NgRx  
-- Node.js  
-- Tailwind CSS  
-- Bootstrap 5  
+I enjoy optimizing enterprise workflows, quickly mastering new SAP technologies, and implementing efficient solutions to meet demanding business requirements.
 
 ---
 
-## 🎯 Goals
+## 📚 Technical Expertise & Focus
 
-- Become an expert in full-stack development  
-- Build scalable and user-friendly web applications  
-- Contribute to open-source projects  
+- **Backend Development:** Core ABAP, Object-Oriented ABAP (ABAP OO)
+- **Modern SAP Programming:** SAP RAP (RESTful ABAP Programming Model)
+- **User Experience:** SAP Fiori UX, SAPUI5, OData Services
+- **Document Management:** SAP Adobe Interactive Forms (SFP)
+- **Web Technologies:** JavaScript, HTML5, XML (for Fiori/UI5 integration)
+
+---
+
+## 🎯 Professional Goals
+
+- Master advanced enterprise architecture within the SAP S/4HANA ecosystem.
+- Implement seamless, user-centric Fiori applications.
+- Contribute to optimizing and automating large-scale business processes.
 
 ---
 
 ## 🛠️ I code with:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+  <img src="https://img.shields.io/badge/ABAP-0088CC?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP" />
+  <img src="https://img.shields.io/badge/SAP_Fiori-F0AB00?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Fiori" />
+  <img src="https://img.shields.io/badge/OData-4A4A4A?style=for-the-badge&logo=odata&logoColor=white" alt="OData" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
+
 ---
 
 ## 💡 Quote to Live By
@@ -81,5 +67,3 @@ I enjoy building clean, efficient, and user-friendly web applications, quickly l
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmagdy&theme=tokyonight" alt="GitHub streak stats" />
 </p>
-
----
